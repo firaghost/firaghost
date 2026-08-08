@@ -62,8 +62,6 @@ focus:
 
 </div>
 
-> Replace `YOUR-INSTANCE` with your Vercel URL after self-hosting [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). The public instance is constantly rate-limited — self-hosting takes ~20 min and gives you a private limit that never runs out. Steps: fork the repo → deploy on Vercel (Hobby/free) → add env var `PAT_1` = a classic GitHub token with `repo` scope.
-
 ---
 
 ### 🏗️ Featured Projects
