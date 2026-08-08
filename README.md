@@ -91,7 +91,6 @@ focus:
 
 </div>
 
-> Only uncomment this section after the GitHub Action runs green — the `output` branch won't exist before then.
 
 ---
 
