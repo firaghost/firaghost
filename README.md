@@ -21,6 +21,9 @@ focus:
   - Security-aware development (auth, validation, auditability)
   - Operational dashboards for real-world workflows
   - Reliable CI/CD pipelines
+Websites:
+https://firagos.vercel.app
+https://mirachpos.com
 ```
 
 ---
