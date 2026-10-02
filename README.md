@@ -25,7 +25,7 @@ focus:
 <p align="left">
   <a href="https://firagos.vercel.app" target="_blank">🌐 Personal Portfolio</a> •
   <a href="https://mirachpos.com" target="_blank">🚀 MirachPOS</a> •
-  <a href="https://linkedin.com" target="_blank">💼 LinkedIn</a>
+  <a href="https://linkedin.com//in/firagosnuredin" target="_blank">💼 LinkedIn</a>
 </p>
 ---
 
